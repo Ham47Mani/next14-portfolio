@@ -1,0 +1,11 @@
+// ====================== Start Add Tailwindcss ======================
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+// ====================== End Add Tailwindcss ======================
+
+// ====================== Start Global Rules ======================
+// Scroll bar Styled
+::-webkit-scrollbar { width: 2px; height: 2px; }
+::-webkit-scrollbar-thumb { background: black }
+// ====================== End Global Rules ======================
